@@ -35,6 +35,3 @@ public:
     }
 };
 
-/*
-A ideia é fazer um 
-*/
